@@ -70,7 +70,7 @@ Before you begin, ensure you have:
    git clone https://github.com/httpEduardo/SCAN-onJS.git
    ```
 
-2. Navigate to the repository directory:
+2. Navigate to the project directory:
    ```bash
    cd SCAN-onJS
    ```
@@ -303,5 +303,6 @@ This project is released into the public domain under The Unlicense. See [UNLICE
 
 ---
 
-**Author**: [@nicholashc](https://github.com/nicholashc)  
-**Repository**: [github.com/nicholashc/uniswap-skim/](https://github.com/nicholashc/uniswap-skim/)
+**Original Author**: [@nicholashc](https://github.com/nicholashc)  
+**Original Repository**: [github.com/nicholashc/uniswap-skim/](https://github.com/nicholashc/uniswap-skim/)  
+**This Repository**: [github.com/httpEduardo/SCAN-onJS](https://github.com/httpEduardo/SCAN-onJS)
